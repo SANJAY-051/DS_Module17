@@ -1,5 +1,5 @@
 # Ex24 Topological Sort
-## DATE:
+## DATE: 25/03/2026
 ## AIM:
 To compose the code to determine whether the topological ordering for the following graph is possible or not.
 
